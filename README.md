@@ -30,4 +30,4 @@ You can find me on the following social media platforms or send me an email:
 * 👔 [LinkedIn](https://www.linkedin.com/in/Singhhrohiit)
 * 🗣 [Twitter](https://twitter.com/singhhrohiit)
 * 📷 [Instagram](https://www.instagram.com/singhhrohiit)
-* ✉️ [rohitsinghjps2004@gmail.com](mailto:singhhrohiit@gmail.com)
+* ✉️ [rohitsinghjps2004@gmail.com](mailto:rohitsinghjps2004@gmail.com)
