@@ -19,7 +19,7 @@
 <p align="center"> 
 <a href="https://www.linkedin.com/in/singhhrohiit/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /> </a> 
 <a href="https://instagram.com/singhhrohiit/"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&color=C13584&logoColor=white&style=for-the-badge" alt="Instagram" /> </a> 
-<a href="https://www.youtube.com/@ritishgarg25"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" alt="youtube logo"  /> </a> 
+<a href="https://www.youtube.com/@rohit kumar"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" alt="youtube logo"  /> </a> 
 </p>
 
 ## 💻 Languages and Tools:
@@ -27,12 +27,12 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,mysql,nodejs,jquery,bootstrap,git,github,postman,vscode&perline=13" />        
 </p>
 
-[![Ritish Garg  Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ritishgarg25&bg_color=%23F7DF1E&color=ffffff&line=00AFEC&point=403d3d&area=true&hide_border=true)](https://github.com/ritishgarg25/github-readme-activity-graph)
+[![Rohit kumar  Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=singhhrohiit&bg_color=%23F7DF1E&color=ffffff&line=00AFEC&point=403d3d&area=true&hide_border=true)](https://github.com/singhhrohiit/github-readme-activity-graph)
 
 # 📊 GitHub Stats:
 <div align="center">
       
-![](https://github-readme-streak-stats.herokuapp.com/?user=ritishgarg25&theme=omni&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=singhhrohiit&theme=omni&hide_border=false)<br/>
 
 
 ### ✍️ Random Dev Quote
