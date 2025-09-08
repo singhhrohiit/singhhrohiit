@@ -3,14 +3,15 @@
 # Hi, I'm Rohit Kumar 👋
 
 
-<strong>Full Stack Developer • Blockchain Enthusiast • Tech Explorer</strong>
+<strong>Backend Developer • API Architect • System Optimizer</strong>
 
-I'm a dedicated Computer Science undergraduate with a passion for full stack development, blockchain technologies (especially Solidity), and system architecture. I thrive on solving complex challenges, building scalable applications, and exploring how technology can enhance everyday experiences.
+I'm a dedicated Computer Science undergraduate with a passion for backend engineering, system architecture, and building reliable, high-performance applications. I thrive on solving complex challenges, designing scalable infrastructures, and ensuring seamless integrations that power intuitive user experiences.
 
-With experience across both Web2 and Web3 ecosystems, I've developed a range of impactful projects—from decentralized dining platforms to intelligent, IoT-powered traffic management systems. I focus on creating secure, intuitive, and high-performance applications by leveraging tools like React, Node.js, and Web3.js.
+With experience in developing secure, efficient, and production-ready backends, I’ve worked on projects ranging from distributed systems to real-time data processing pipelines. My focus is on building robust APIs, optimizing databases, and architecting systems that scale without compromising performance.
 
-I'm particularly drawn to system performance and backend optimization—whether it's building a lightning-fast API or crafting a responsive user interface. With a strong foundation in JavaScript, C++, and smart contract development, I’m constantly pushing the boundaries of what's possible with code.
+I specialize in backend technologies like Node.js, Express, and databases such as MongoDB and PostgreSQL, while also exploring cloud-native solutions with Docker, Kubernetes, and AWS. From implementing authentication systems to tuning query performance, I enjoy pushing backend systems to their full potential.
 
+With a strong foundation in JavaScript, C++, and system design, I’m constantly exploring new ways to improve performance, reliability, and scalability in modern software systems.
 
 ##  Projects I've Built 🚀
 
